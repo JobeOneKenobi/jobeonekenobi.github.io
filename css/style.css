@@ -57,6 +57,18 @@ added for mailchimp section
 added for mailchimp section^^
 ---------------------------------------------------------------------*/
 
+/*--Added by me--*/
+<style>
+   .event-image {
+      width: 100px; /* Set to your desired width */
+      height: auto; /* Maintain aspect ratio */
+      max-width: 100%; /* Ensure it scales down for smaller containers */
+   }
+</style>
+
+/*--Added by me^--*/
+
+
 body {
      color: #666666;
      font-size: 14px;
