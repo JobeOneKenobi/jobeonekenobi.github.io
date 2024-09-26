@@ -1,6 +1,16 @@
 /*---------------------------------------------------------------------
     File Name: custom.js
 ---------------------------------------------------------------------*/
+/* Function to open the sidebar */
+function openSidebar() {
+    document.getElementById("mySidebar").style.width = "250px"; /* Set the width of the sidebar */
+}
+
+/* Function to close the sidebar */
+function closeSidebar() {
+    document.getElementById("mySidebar").style.width = "0"; /* Reset the sidebar width to 0 */
+}
+
 
 
 $(function () {
